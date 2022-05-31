@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @comrade99
 - 👀 I’m interested in Cybersecurity 
-- 🌱 I’m currently learning Red Teaming
+- 🌱 I’m currently learning Red Teaming and Web3 security
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me Kashyapherry147@gmail.com
 
